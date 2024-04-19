@@ -3,6 +3,13 @@
 
 # DMCA
 contact us (real) at this email: (not yet)
+
+# to-do
+- readd multiplayer (no)
+- fix player model
+- new favicon.ico
+- survival mod
+- ~~connect to vanilla servers~~ 
 <!--
 # Minecraft Classic Reversed
 This is a project meant to document the functions and code of classic.minecraft.net.
